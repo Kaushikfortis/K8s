@@ -1,6 +1,6 @@
 # Kubernetes Awesome App
 
-<img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" alt="Kubernetes Logo" width="40%">
+<img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" alt="Kubernetes Logo" width="30%">
 
 Welcome to the Kubernetes Awesome App repository! This repository contains everything you need to deploy and manage an awesome application using Kubernetes.
 
