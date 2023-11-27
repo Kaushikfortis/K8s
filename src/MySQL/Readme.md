@@ -1,0 +1,1 @@
+This configuration sets up a MySQL Deployment with one replica, using environment variables from a Secret and a ConfigMap for sensitive information and configuration, respectively. It also uses a persistent volume for storing MySQL data.
